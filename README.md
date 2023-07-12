@@ -1,0 +1,2 @@
+# SuddenStrike4-Resistance
+用suddenstrike4官方模组搭建的游戏场景，欢迎大家下载使用
